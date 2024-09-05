@@ -2,9 +2,11 @@
 
 
 Döviz Kuru Uygulaması
+
 Bu proje, React kullanılarak oluşturulmuş bir döviz kuru uygulamasıdır. Uygulama, çeşitli para birimleri arasındaki güncel kurları görüntülemenizi sağlar ve kullanıcıların belirli para birimlerini seçerek anlık dönüşüm yapmalarına olanak tanır.
 
 Özellikler
+
 Farklı para birimleri arasındaki kurları güncel olarak görüntüleyebilme
 Anlık döviz dönüşümü yapabilme
 Güncel kurları API üzerinden çekme
@@ -13,6 +15,7 @@ Kullanıcı dostu ve responsive tasarım
 
 
 Kullanılan Teknolojiler
+
 React: Arayüz oluşturmak için kullanılan temel framework
 Axios: API istekleri için kullanılan HTTP istemcisi
 CSS: Sayfa stilizasyonu için
